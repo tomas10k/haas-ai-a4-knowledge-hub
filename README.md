@@ -10,7 +10,7 @@ A terminal program that answers questions about my own notes using Gemma 4 E2B r
 | Instructions sent to Gemma | [`instructions/`](instructions/) |
 | Wiki (open `vault/` in Obsidian) | [`vault/index.md`](vault/index.md) |
 | Test plan, written before building | [`tests/questions.md`](tests/questions.md) |
-| Final offline run: transcript and recording | [`evidence/transcripts/offline_run_3.txt`](evidence/transcripts/offline_run_3.txt), [`evidence/recordings/offline_run_3.mov`](evidence/recordings/offline_run_3.mov) |
+| Final offline run: transcript and recording | [`evidence/transcripts/offline_run_3.txt`](evidence/transcripts/offline_run_3.txt), [`evidence/recordings/offline_run_3.mp4`](evidence/recordings/offline_run_3.mp4) |
 | Every saved run | [`evidence/runs/`](evidence/runs/) |
 
 ## 1. Purpose and sources
@@ -187,7 +187,7 @@ Chat transcripts: [run 1](evidence/runs/20260929-203804-chat.md), [run 2](eviden
 
 ### Offline proof
 
-Every card in `evidence/runs/` records `network: offline (no internet connection)` except the first ingest. Recording: [`evidence/recordings/offline_run_3.mov`](evidence/recordings/offline_run_3.mov). Transcript: [`evidence/transcripts/offline_run_3.txt`](evidence/transcripts/offline_run_3.txt).
+Every card in `evidence/runs/` records `network: offline (no internet connection)` except the first ingest. Recording: [`evidence/recordings/offline_run_3.mp4`](evidence/recordings/offline_run_3.mp4). Transcript: [`evidence/transcripts/offline_run_3.txt`](evidence/transcripts/offline_run_3.txt).
 
 ## 6. Reflection: limitation and improvement
 
