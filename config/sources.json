@@ -1,0 +1,58 @@
+{
+  "Designing Financial Models Notes.md": {
+    "source_id": "dfmw-notes",
+    "folder": "Financial Modeling",
+    "description": "How to design financial models that work (MBA 236G): framing, estimating, building to a style guide.",
+    "notes": {
+      "1. What a financial model is": "Financial Model Definition",
+      "2. The four DFMW core concepts (the \"what\")": "DFMW Core Concepts",
+      "3. The DFMW design process (the \"how\")": "DFMW Design Process",
+      "4. Step 1: Frame and Sketch": "Frame and Sketch",
+      "5. Case example: The Kitchen at Clark Street": "Kitchen at Clark Street Case",
+      "6. Step 2a: Estimate (ballpark before building)": "Estimation and Ballparking",
+      "7. Step 2b: Build, and how \"good design\" is decided": "Good Model Design",
+      "8. DFMW Style Guide, Part 1: small sections": "Style Guide for Small Sections",
+      "9. DFMW Style Guide, Part 2: worksheet tabs": "Style Guide for Worksheet Tabs",
+      "10. AI tools for Excel": "AI Tools for Excel",
+      "11. Formulas and frameworks for the Frame step": "Modeling Formulas and Frameworks",
+      "12. Course logistics": "DFMW Course Logistics"
+    }
+  },
+  "Agentic AI Course Notes.md": {
+    "source_id": "agentic-ai-notes",
+    "folder": "AI Course",
+    "description": "Fundamentals of Agentic AI (MBA 290T), Classes 1 to 6: from code basics to production agents.",
+    "notes": {
+      "Course schedule": "AI Course Schedule",
+      "Class 1: Code and programming foundations": "Code Foundations",
+      "Class 2: Software systems, from frontend to deployment": "Software Systems",
+      "Class 3: Machine learning foundations": "Machine Learning Foundations",
+      "Class 4: Deep learning, embeddings and transformers": "Deep Learning and Transformers",
+      "Class 5: LLM behavior, prompting and retrieval": "LLM Prompting and RAG",
+      "Class 6: Production LLMs and single agents": "Production LLMs and Agents"
+    }
+  },
+  "Negotiation Notes.md": {
+    "source_id": "negotiation-notes",
+    "folder": "Negotiation",
+    "description": "Negotiations (MBA 252): preparation, offers, concessions, salary, fairness, teams and emotions.",
+    "notes": {
+      "1. Why negotiate at all": "Why Negotiate",
+      "2. What a negotiation is": "What a Negotiation Is",
+      "3. Distributive versus integrative negotiation": "Distributive and Integrative Negotiation",
+      "4. The three things to know before any negotiation": "BATNA and Reservation Point",
+      "5. Preparation: the prep sheet": "Negotiation Preparation",
+      "6. Building rapport": "Building Rapport",
+      "7. First offers": "First Offers",
+      "8. Concessions": "Concessions",
+      "9. Responding to a first offer": "Responding to First Offers",
+      "10. Salary and job offer negotiation": "Salary Negotiation",
+      "11. Fairness": "Fairness in Negotiation",
+      "12. Weak BATNAs, information and \"irrational\" negotiators": "Weak BATNA and Irrational Negotiators",
+      "13. Team negotiations": "Team Negotiations",
+      "14. Anger and emotions (Myti-Pet case)": "Anger and Emotions",
+      "15. Giving feedback": "Giving Feedback",
+      "16. Key takeaways checklist": "Negotiation Takeaways"
+    }
+  }
+}
